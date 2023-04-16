@@ -38,13 +38,12 @@
 
 
 ## Connect with me  
-<div align="center">
-<p align="left"> <a href="https://discord.com/users/lolaconfused#7979" target="_blank" rel="noreferrer">
+<div align="center"> 
+<a href="https://discord.com/users/lolaconfused#7979" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="50" height="50" /></a> 
 <a href="https://www.github.com/lolaconfused" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" /></a>
 <a href="http://www.instagram.com/lolitagoth" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="50" /></a>
-</p>
 </div>  
   
 
