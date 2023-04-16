@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=d263xaeynbf2cb0mrypyikt0i)
+
+![Lola's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolaconfused&show_icons=true&theme=discord_old_blurple)
