@@ -11,7 +11,7 @@
 - ❓ Ask me about anything related to HTML, CSS or JS  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I love project learning! 
   
 
 <br/>  
